@@ -1,4 +1,7 @@
-# Introduction to Artificial-Intelligence - Task 1: Chatbot
+# Introduction to Artificial Intelligence: Chatbot
+
+WGU C951 - Performance Assessment - Task 1
+
 
 INTRODUCTION
 
