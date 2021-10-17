@@ -1,4 +1,4 @@
-# Introduction to Artificial Intelligence - Chatbot
+# Introduction to Artificial Intelligence - Chatbot - AIML
 
 WGU C951 - Performance Assessment - Task 1
 
