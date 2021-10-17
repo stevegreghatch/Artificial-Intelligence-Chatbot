@@ -1,4 +1,4 @@
-# Introduction-to-Artificial-Intelligence-Task-1-Chatbot
+# Introduction to Artificial-Intelligence - Task 1: Chatbot
 
 INTRODUCTION
 
